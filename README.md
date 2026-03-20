@@ -25,9 +25,8 @@ Key Findings
 - Positive reviews emphasized satisfaction with value and product description accuracy
 
  Tech Stack
-- Python
+- Python(Pandas,Sklearn,re,matplotlib,seaborn)
 - Hugging Face Transformers & Datasets
-- Pandas
 - Jupyter Notebook
 
  How to Run
